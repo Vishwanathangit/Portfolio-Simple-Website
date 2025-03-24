@@ -12,7 +12,7 @@ This is a **simple and responsive portfolio website** built using **HTML and bas
 
 ## 🛠️ How to View the Website?  
 1. **Download or Clone the Repository**:  
-   
+   https://github.com/Vishwanathangit/Portfolio-Simple-Website.git
 2. **Open the `index.html` file** in any web browser.  
 
 ## 📂 Files Included:  
